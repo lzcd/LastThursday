@@ -1,0 +1,34 @@
+Problem:
+
+ 
+
+According to the user (or their browser) the current time apparently is 9:45..ish and we have no idea if they're talking 12 or 24 hour time and whether their clock is accurate enough to begin with.
+
+Despite all of this, we'd really like to be able offer them a sensible list of *probable* timezone options (and not the 98 *possible*).
+
+ 
+
+e.g.
+
+You said it was 9:45 where you are. (It's around 9:43PM where I am.)
+
+ 
+
+Do any of the following timezones sound about right?
+
+ o Mid Atlantic
+
+ o Brisbane
+
+ o Canberra, Melbourne, Sydney
+
+ o Guam, Port Moresby
+
+ o Hobart 
+
+ o Vladivostok
+
+ 
+
+Answer:
+LastThursday
